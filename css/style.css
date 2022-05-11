@@ -1,0 +1,20 @@
+.record_btn{
+   display: flex; 
+   justify-content: center;
+   align-items: center;
+   height: 80px;
+}
+.record_btn button{
+    margin-left: 10px;
+    width: 120px;
+    height: 35px;
+    border: #5a5a5a;
+    background: #5a5a5a;
+    color: #fff;
+    border-radius: 15px;
+}
+#output{
+    width: 90%;
+    margin: 0 auto;
+    border: #5a5a5a;
+}
